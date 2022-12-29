@@ -8,13 +8,13 @@ const Aside = {
   <div class="aside-body">
     <ul class="categories">
       <li>
-        <a href="/#/?q=tornillos"
+        <a href="/#/?q=Tornillos"
           >Tornillos
           <span><i class="fa fa-chevron-right"></i></span>
         </a>
       </li>
       <li>
-        <a href="/#/?q=partes"
+        <a href="/#/?q=Partes"
           >Partes
           <span><i class="fa fa-chevron-right"></i></span>
         </a>
